@@ -1,0 +1,9 @@
+{
+    "photos": [
+        { "name": "1", "url": "https://cdn.pixabay.com/photo/2016/10/21/14/50/szechenyi-chain-bridge-1758196__340.jpg" },
+        { "name": "2", "url": "https://cdn.pixabay.com/photo/2016/12/14/04/08/ray-1905603__340.png" },
+        { "name": "3", "url": "https://cdn.pixabay.com/photo/2016/11/29/15/05/drink-1870139__340.jpg" },
+        { "name": "4", "url": "https://cdn.pixabay.com/photo/2016/05/03/09/40/thunder-1368797__340.jpg" },
+        { "name": "5", "url": "https://cdn.pixabay.com/photo/2016/10/30/20/08/eiffel-tower-1784212__340.jpg" }
+    ]
+}
